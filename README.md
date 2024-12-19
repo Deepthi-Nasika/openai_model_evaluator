@@ -1,4 +1,4 @@
-# Assignment 1
+# OpenAI Model Evaluator
 Development of an interactive tool using Streamlit that enables Model Evaluation team to evaluate the performance of OpenAI models against the test cases
 
 ## Problem Statement
